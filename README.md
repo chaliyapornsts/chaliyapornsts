@@ -15,4 +15,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaliyapornstse&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaliyapornsts&theme=dark&background=000000)](https://git.io/streak-stats)

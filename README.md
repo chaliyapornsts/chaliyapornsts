@@ -1,10 +1,9 @@
 Hi 👋 My name is Chaliyaporn Suttisak
 ============================================================================================================================================
 
-<div id="header" align="center" border-radius="50%">
+<div id="header" align="center" style="border-radius: 50%;">
   <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" />
 </div>
-
 
 * 🖥️  See my portfolio at [portfolio-chaliyaporn](http://portfolio-chaliyaporn-sts.vercel.app/)
 * ✉️  You can contact me at [chaliyaporn.sts@gmail.con](mailto:chaliyaporn.sts@gmail.con)

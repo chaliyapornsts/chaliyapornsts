@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/heyarnold-hey-arnold-nick-splat-xUNd9FOSgUDmfVZ78I)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 * 🖥️  See my portfolio at [portfolio-chaliyaporn](http://portfolio-chaliyaporn-sts.vercel.app/)

@@ -1,4 +1,4 @@
-Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif)) 👋 My name is Chaliyaporn Suttisak
+Hi 👋 My name is Chaliyaporn Suttisak
 ============================================================================================================================================
 
 <div id="header" align="center">

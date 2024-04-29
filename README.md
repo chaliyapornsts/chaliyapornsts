@@ -1,7 +1,7 @@
 Hi 👋 My name is Chaliyaporn Suttisak
 ============================================================================================================================================
 
-<div id="header" align="center" style="border-radius: 50%;">
+<div id="header" align="center" style="border-radius: 50%">
   <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" />
 </div>
 

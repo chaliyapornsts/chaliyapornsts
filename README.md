@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chaliyaporn Suttisak
 ============================================================================================================================================
 
-<div align="center" id="header">
-  <img src="https://i.pinimg.com/originals/d1/b0/35/d1b035beb6ec8b99e82ba9b1a4069b67.gif" width="100"/>
-</div>
-
 * 🖥️  See my portfolio at [portfolio-chaliyaporn](http://portfolio-chaliyaporn-sts.vercel.app/)
 * ✉️  You can contact me at [chaliyaporn.sts@gmail.con](mailto:chaliyaporn.sts@gmail.con)
 

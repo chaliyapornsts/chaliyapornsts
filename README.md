@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 
 <div align="center" id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F18577417204285479%2F&psig=AOvVaw2j1xC3PEQdPkp5MKPczYZV&ust=1714448244459000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi8zsa_5oUDFQAAAAAdAAAAABAJ)" width="100"/>
 </div>
 
 * 🖥️  See my portfolio at [portfolio-chaliyaporn](http://portfolio-chaliyaporn-sts.vercel.app/)

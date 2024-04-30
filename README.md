@@ -5,12 +5,13 @@ Hi 👋 My name is Chaliyaporn Suttisak
   <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" />
 </div>
 
+
 * 🖥️  See my portfolio at [portfolio-chaliyaporn](http://portfolio-chaliyaporn-sts.vercel.app/)
 * ✉️  You can contact me at
   
   Email: [chaliyaporn.sts@gmail.con](mailto:chaliyaporn.sts@gmail.com)
   
-  and LinkedIn: [chaliyaporn.sts](https://www.linkedin.com/in/chaliyaporn-sts/)
+  LinkedIn: [chaliyaporn.sts](https://www.linkedin.com/in/chaliyaporn-sts/)
 
 ---
 

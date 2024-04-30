@@ -6,7 +6,8 @@ Hi 👋 My name is Chaliyaporn Suttisak
 </div>
 
 * 🖥️  See my portfolio at [portfolio-chaliyaporn](http://portfolio-chaliyaporn-sts.vercel.app/)
-* ✉️  You can contact me at [chaliyaporn.sts@gmail.con](mailto:chaliyaporn.sts@gmail.con)
+* ✉️  You can contact me at Email: [chaliyaporn.sts@gmail.con](mailto:chaliyaporn.sts@gmail.com)
+  and LinkedIn: [chaliyaporn.sts](mailto:chaliyaporn.sts@gmail.com)
 
 ---
 
